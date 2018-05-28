@@ -1,0 +1,11 @@
+<!--pages/recorder/recorder.wxml-->
+<view class="banner">
+  <view><text>录制分享内容</text></view>
+  <view><text>每段语音最长为n分钟</text></view>
+</view>
+
+ <view >
+  <button bindtap="onRecorder" class='recorder-btn'>
+    <image class="recorder-logo"src='../../images/recorder.png'></image>
+  </button>
+ </view>

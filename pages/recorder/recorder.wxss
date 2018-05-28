@@ -1,0 +1,16 @@
+/* pages/recorder/recorder.wxss */
+.recorder-btn{
+  width: 100rpx;
+  height: 100rpx;
+  padding: 10rpx;
+  position: absolute;
+  left: 50%;
+  margin-left: -50rpx;
+  bottom: 0rpx;
+  z-index: 999999;
+  border-radius: 50%;
+}
+.recorder-logo{
+  width: 100%;
+  height: 100%;
+}
